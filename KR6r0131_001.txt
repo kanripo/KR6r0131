@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:43.866861
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:23
 #+TITLE: 天台山記
 #+PROPERTY: CBETA_ID T51n2096
 #+PROPERTY: ID KR6r0131
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2096
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0131_T_000-1052a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0131_T_001-1052a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2096¶
-
- 天台山記¶
+No. 2096¶
+天台山記¶
 ¶
 
-:PROPERTIES:
-:head: 方瀛觀
-:END:
-徐徵君纂¶
+ 方瀛觀徐徵君纂¶
 
 孫綽云。涉海則有方丈蓬萊。登陸則有四明¶
 天台。信矣哉。蓋寰瀛之靈塘。三清之別館¶
@@ -334,11 +330,7 @@ No.2096¶
 天台山記一卷
 <pb:KR6r0131_T_001-1055c>¶
 
-直齋書錄解題天台山記一卷
-:PROPERTIES:
-:head: 直齋書錄解題
-:END:
-¶
+* 直齋書錄解題¶
 
 天台山記一卷¶
 
